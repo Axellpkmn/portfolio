@@ -75,7 +75,6 @@ body{
 
 .item {
   width: 20em;
-  cursor: pointer;
   background: linear-gradient(90deg, rgb(255, 30, 0) 7%, rgba(0,0,0,0.21052170868347342) 39%);
   backdrop-filter: blur(20px);
 }
