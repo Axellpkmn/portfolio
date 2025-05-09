@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
       video.play()
   }
 
+  
 
   // Añadir eventos de clic a los elementos del menú
   document.getElementById('item1').addEventListener('click', reproducirVideo);
